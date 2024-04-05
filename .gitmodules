@@ -1,0 +1,3 @@
+[submodule "Dependencies/Submodules"]
+	path = Dependencies/Submodules
+	url = https://github.com/Heinz-Loepmeier/Blender-Gcode-Import
