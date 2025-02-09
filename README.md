@@ -87,5 +87,3 @@ This work demonstrates the viability of digital twin-driven quality control in a
 **Technologies Used**: Blender, PyTorch, OpenCV, BambuStudio, Python  
 **Hardware**: BambuLabs P1P, RTX 3080ti GPU
 
----
-Answer from Perplexity: https://www.perplexity.ai/search/i-have-this-paper-i-wrote-can-_82V5tKyShqhnLd8.075NQ?utm_source=copy_output
